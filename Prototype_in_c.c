@@ -1,4 +1,3 @@
-# Blood-Bank-simulation-Project
 #include <bits\stdc++.h>
 #include<vector>
 #include <random>
